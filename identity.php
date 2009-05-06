@@ -14,6 +14,7 @@ while(!$isReversible) {
     $i++;
     if($i == 10000) {
         echo $str;
+        echo "\n";
         $i = 0;
     }
     $output = hash('md5', $str);
