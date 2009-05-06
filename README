@@ -1,0 +1,5 @@
+A PHP script created to find a string that creates a reversible MD5 hash also known
+as the 'Kember Identity'.
+
+The rest of the scripts created can be found at Elliott Kember's github page:
+http://github.com/elliottkember/The-Kember-Identity/tree
